@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.se.sample</groupId>
-    <artifactId>spring-db-counter</artifactId>
+    <artifactId>sb-increment-decrement-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-db-counter</name>
+    <name>sb-increment-decrement-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
